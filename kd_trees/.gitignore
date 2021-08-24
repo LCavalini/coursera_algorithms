@@ -1,0 +1,6 @@
+*.class
+*.png
+NearestNeighborVisualizer.*
+RangeSearchVisualizer.*
+KdTreeVisualizer.*
+*.zip
